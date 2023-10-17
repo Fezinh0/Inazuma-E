@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+section a {
+    text-decoration: none;
+    color: var(--preto);
+}

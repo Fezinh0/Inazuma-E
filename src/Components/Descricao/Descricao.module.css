@@ -1,0 +1,12 @@
+.container {
+    position: relative;
+    margin: auto;
+    left: 35px;
+    right: 80px;
+    width: 40%;
+    font-size: 16pt;
+    font-weight: 600;
+    font-family: lagosta;
+    text-align: justify;
+    background-color: var(--branco);
+}

@@ -1,0 +1,23 @@
+.Footer {
+    padding: 15px 0 0 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: var(--laranja);
+    color: var(--preto);
+    font-size: 17pt;
+    font-weight: 400;
+    gap: 15px;
+}
+
+.Footer img {
+    width: 7%;
+    border-radius: 50px;
+}
+
+.redes a {
+    font-size: 7vh;
+    text-decoration: none;
+    color: var(--preto);
+}

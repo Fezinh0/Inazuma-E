@@ -1,0 +1,17 @@
+.link {
+    text-decoration: none;
+    color: var(--preto);
+    font-size: 20pt;
+    font-weight: 550;
+    padding: 10px;
+    margin: 2px;
+    bottom: 20px;
+    font-family: Autour one;
+}
+
+.link:hover {
+    background-color: var(--preto);
+    color: var(--laranja);
+    border-radius: 7px;
+    transition: background-color 1.5s;
+}

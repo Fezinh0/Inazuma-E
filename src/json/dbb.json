@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "titulo": "Shirou Fubuki",
+        "capa": "https://i.pinimg.com/564x/ea/a5/7c/eaa57ca13157e63cb884834d3f2b8d60.jpg"
+    },
+
+    {
+        "id": 2,
+        "titulo": "Shuuya Gouenji",
+        "capa": "https://i.pinimg.com/564x/71/f8/06/71f8066ada831ebd92684020b22f21c9.jpg"
+    },
+
+    {
+        "id": 3,
+        "titulo": "Yuuto Kidou",
+        "capa": "https://i.pinimg.com/564x/c6/67/3a/c6673ace5eee63f2974d92c70750f900.jpg"
+    },
+
+    {
+        "id": 4,
+        "titulo": "Hiroto Kiyama",
+        "capa": "https://i.pinimg.com/564x/a1/79/2f/a1792fa35c4098a340008572cdde4661.jpg"
+    },
+
+    {
+        "id": 5,
+        "titulo": "Mamoru Endou",
+        "capa": "https://i.pinimg.com/564x/62/85/26/628526d2fce1c62e7632a09bff7f3210.jpg"
+    },
+    
+    {
+        "id": 6,
+        "titulo": "Jousuke Tsunami",
+        "capa": "https://i.pinimg.com/564x/03/90/1f/03901f6ded8c65e3befef756cc511175.jpg"
+    }
+
+]
